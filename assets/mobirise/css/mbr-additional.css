@@ -1285,21 +1285,21 @@ a {
   -webkit-tap-highlight-color: transparent;
 }
 .cid-sQly0YXTpp {
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #fafafa;
 }
 .cid-sQly0YXTpp .carousel {
+  height: 800px;
+}
+.cid-sQly0YXTpp .carousel img {
   width: 100%;
-}
-.cid-sQly0YXTpp .carousel-inner {
-  display: flex;
-  align-content: center;
-  align-items: center;
-}
-.cid-sQly0YXTpp .carousel-item img {
-  height: 100vh;
+  height: 100%;
   object-fit: cover;
+}
+.cid-sQly0YXTpp .carousel-item,
+.cid-sQly0YXTpp .carousel-inner {
+  height: 100%;
 }
 .cid-sQly0YXTpp .carousel-caption {
   bottom: 40px;
