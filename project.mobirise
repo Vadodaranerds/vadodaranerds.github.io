@@ -48,7 +48,7 @@
     "uniqCompNum": 13,
     "versionPublish": "5.5.2",
     "imageResize": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
