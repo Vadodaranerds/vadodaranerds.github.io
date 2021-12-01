@@ -1417,10 +1417,10 @@ a {
 .cid-sQlB36xJK3 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-sQlB36xJK3 .mbr-overlay {
-  background-color: #ffffff;
+  background-color: #ffe885;
   opacity: 0.4;
 }
 .cid-sQlB36xJK3 form.mbr-form {
