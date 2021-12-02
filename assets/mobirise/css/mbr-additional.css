@@ -1547,6 +1547,10 @@ a {
 .cid-sQpFw6WI4s .card-wrapper .card-title {
   color: #ffffff;
 }
+.cid-sQpFw6WI4s .card-wrapper .card-title,
+.cid-sQpFw6WI4s .card-box {
+  text-align: center;
+}
 .cid-sQkUkJahIc {
   z-index: 1000;
   width: 100%;
