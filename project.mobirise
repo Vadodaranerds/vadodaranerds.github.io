@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-01_0227",
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -23,11 +23,11 @@
         "display7Size": 1.2,
         "display4Font": "Jost",
         "display4Size": 1.1,
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isGhostButtonBorder": false,
-        "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "underlinedLinks": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#af0df9",
@@ -51,9 +51,17 @@
     "uniqCompNum": 98,
     "versionPublish": "5.5.2",
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png",
-    "modified": "2021-12-10T07:12:40.070Z"
+    "modified": "2021-12-10T07:12:40.070Z",
+    "favicon": false,
+    "mbrsiteDomain": "4hs4gr4fct",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
