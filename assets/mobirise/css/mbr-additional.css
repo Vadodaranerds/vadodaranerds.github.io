@@ -2906,17 +2906,85 @@ a {
     left: -1rem;
   }
 }
-.cid-sQqiymz5uQ {
+.cid-sSYkXfLsdY {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
-.cid-sQqiymz5uQ .mbr-section-subtitle {
-  text-align: left;
+.cid-sSYl7EvpsW {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sSYl7EvpsW .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sSYl7EvpsW .row {
+  flex-direction: row-reverse;
+}
+.cid-sSYl7EvpsW img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sSYl7EvpsW .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sSYlBVJqQj {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sSYlBVJqQj .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sSYlBVJqQj img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sSYlBVJqQj .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sSYmJBTtHK {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-sSYmJBTtHK .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sSYnvrIJ4o {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sSYnvrIJ4o .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sSYnvrIJ4o .row {
+  flex-direction: row-reverse;
+}
+.cid-sSYnvrIJ4o img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sSYnvrIJ4o .text-wrapper {
+    padding: 2rem;
+  }
 }
 .cid-sQqiSFYgMf {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-sQqiSFYgMf blockquote {
@@ -2928,8 +2996,8 @@ a {
   color: #000000;
 }
 .cid-sQqjy8zeMQ {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-sQqjy8zeMQ blockquote {
@@ -3003,6 +3071,11 @@ a {
   .cid-sQl31c9NHA div > *:last-child {
     margin-top: 0 !important;
   }
+}
+.cid-sSYkvXpat9 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
 .cid-sQkUkJahIc {
   z-index: 1000;
