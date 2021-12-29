@@ -6846,3 +6846,24 @@ a {
     margin-top: 0 !important;
   }
 }
+.cid-sSXJWRbQBQ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sSXJWRbQBQ .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-sSXJWRbQBQ form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-sSXJWRbQBQ form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-sSXJWRbQBQ form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
